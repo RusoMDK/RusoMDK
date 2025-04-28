@@ -15,3 +15,47 @@ Uso de herramientas de control de versiones como Git y GitHub.
 💞️ Estoy buscando oportunidades de colaboración en proyectos emocionantes. Si tienes un proyecto interesante en mente o estás buscando un compañero de desarrollo, ¡contáctame!
 
 📫 Puedes encontrarme y contactarme en GitHub a través de https://github.com/RusoMDK
+ssjns
+s
+s
+s
+s
+ss
+s
+s
+s
+s
+
+s
+s
+s
+s
+s
+s
+s
+
+s
+s
+s
+s
+ss
+s
+s
+s
+
+ss
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+sss
+
+s
+s
