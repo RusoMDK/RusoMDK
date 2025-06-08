@@ -71,8 +71,8 @@
 
 ## 📫 ¡Hablemos!
 
-- 📧 luisantoslezcano@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/luis-santos-lezcano](https://linkedin.com/in/luis-santos-lezcano)  
+- 📧 [luissantoslezcano@gmail.com](mailto:luisantoslezcano@gmail.com)
+- 💼 LinkedIn: [Luis Manuel Santos Lezcano](https://www.linkedin.com/in/luis-manuel-santos-lezcano-633956108/)
 - 🌐 Portfolio: [luissantos.dev](https://luissantos.dev)  
 
 ---
