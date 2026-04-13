@@ -73,7 +73,7 @@ Soy **desarrollador de software full-stack** enfocado en plataformas web e IoT, 
 
 - 📧 **Email:** [luissantoslezcano@gmail.com](mailto:luissantoslezcano@gmail.com)  
 - 💼 **LinkedIn:** [Luis Manuel Santos Lezcano](https://www.linkedin.com/in/luis-manuel-santos-lezcano-633956108/)  
-- 🌐 **Portfolio:** [luissantos.dev]( [https://luissantos.dev](https://luismsldev.vercel.app/es](https://luismsldev.vercel.app/es) )  
+- 🌐 **Portfolio:** [luissantos.dev]( https://luismsldev.vercel.app/es )  
 
 ---
 
