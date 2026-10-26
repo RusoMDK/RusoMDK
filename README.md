@@ -1,153 +1,60 @@
-<div align="center">
+# Luis Manuel Santos
 
-# 👋 Hola, soy Luis Manuel Santos (RusoMDK)
+**Desarrollador Full Stack** · TypeScript · Node.js (NestJS, Fastify) · React · Angular · PostgreSQL
 
-### Full-Stack & IoT Developer · Node.js · React · MQTT
-
-</div>
+📍 Valladolid, España · Abierto a puestos Full Stack, Backend o Frontend en remoto, híbrido o presencial en Valladolid.
 
 ---
 
-## 💫 About Me
+## Sobre mí
 
-Soy **desarrollador de software full-stack** enfocado en plataformas web e IoT, combinando backend sólido con interfaces claras y usables.
+Desarrollador Full Stack con 2 años construyendo software en producción.
 
-- 🚀 Actualmente trabajando en **SmartIOT Platform**, una solución escalable para gestionar y monitorear dispositivos IoT en tiempo (casi) real.
-- 🌱 Siempre aprendiendo y profundizando en **Frontend, Backend e IoT**, con interés en arquitecturas limpias, buenas prácticas y observabilidad.
-- ⚡ Me motiva la mezcla de **UI/UX cuidada** con **arquitecturas robustas del lado del servidor**.
-- 👯 Abierto a colaborar en proyectos *open source* de **domótica inteligente, visualización de datos y APIs robustas**.
-- 🧠 Creo en el código legible, la automatización y el aprendizaje continuo como parte del flujo de trabajo diario.
+- Trabajé en **SIGIES**, la plataforma nacional con la que se gestiona el ingreso a la educación superior en Cuba: soporte del sistema legacy en PHP durante los picos de admisión y reescritura con **NestJS y Angular**, por sprints y con analistas.
+- Construyo **KWAD**, un SaaS B2B multi-tenant para comercio minorista, en beta y en producción con su primer cliente.
 
-> “Código limpio y experiencias de usuario memorables son mi pasión.”  
-> — Luis Santos
+Me interesan las arquitecturas mantenibles, los contratos de API estables y el producto bien terminado.
 
----
+## Trabajo actual: KWAD
 
-## 🛠️ Stack & Herramientas
+SaaS B2B multi-tenant (código privado) que unifica TPV, inventario, compras, caja y tienda online por cliente.
 
-### 🔧 Backend
-- Node.js, Express, Fastify  
-- REST APIs, autenticación con JWT, validación con Zod  
-- Integración con bases de datos relacionales y NoSQL
+- Aislamiento multi-tenant por petición y RBAC dinámico por organización.
+- Tres aplicaciones con modelos de identidad separados: back-office, tiendas online por subdominio y consola de plataforma.
+- Monorepo con Turborepo: API con Fastify + Prisma + PostgreSQL, apps en React, colas con Redis y BullMQ; desplegado en Railway y Vercel.
 
-### 🎨 Frontend
-- React + Vite  
-- Tailwind CSS, componentes reutilizables, diseño responsive  
-- Consumo de APIs, manejo de estado y UX enfocada en claridad
+## Proyectos públicos
 
-### 📡 IoT & Comunicación
-- MQTT (Mosquitto), WebSockets, Socket.io  
-- Integración de dispositivos físicos con servicios backend  
-- Dashboards de monitoreo y visualización de métricas
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [Portfolio](https://github.com/RusoMDK/luis-manuel-santos-portfolio) | Portfolio bilingüe con tests que verifican el contenido | Next.js, TypeScript, Tailwind CSS, next-intl |
+| [Tienda-Virtual](https://github.com/RusoMDK/Tienda-Virtual) | E-commerce con catálogo, carrito, checkout y panel de administración | Fastify, Prisma, PostgreSQL, React, TanStack Query, Zustand |
+| [PlataformaIoT](https://github.com/RusoMDK/PlataformaIoT) | Ingesta de lecturas por MQTT, dashboards en tiempo real, alertas y exportación | Express, MongoDB, MQTT, Socket.IO, React |
 
-### 🐳 Dev & Tooling
-- Docker, Postman, Git/GitHub/GitLab  
-- Entornos Linux y macOS  
-- Automatización básica de flujos de desarrollo y pruebas
+## Stack
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🔥 Proyectos Destacados
+## Formación
 
-| Proyecto              | Descripción                                                                                                   | Tech Stack                                                |
-|-----------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| **SmartIOT Platform** | Plataforma completa para monitorizar y controlar dispositivos IoT en tiempo real, con dashboard interactivo y API REST. | Node.js, Express, MongoDB, React, Vite, MQTT, Socket.io   |
-| **ProxyAgent UCI**    | App de escritorio para gestionar proxy institucional y túneles SSH/SOCKS de forma gráfica y sencilla.        | Electron, Node.js, React, Vite, CSS Variables             |
-| **LicenseGen**        | Servicio de generación y validación de licencias basado en JWT y almacenamiento seguro.                      | Node.js, Electron, jsonwebtoken, node-persist             |
+- **Ingeniería en Ciencias Informáticas**, Universidad de las Ciencias Informáticas (2019–2024).
+- **Estudios de posgrado en Informática Avanzada**, misma universidad (2025–2026): Machine Learning, Big Data con Apache Spark, IoT y ciberseguridad.
 
-👉 Más proyectos en: [github.com/RusoMDK?tab=repositories](https://github.com/RusoMDK?tab=repositories)
+## Contacto
 
----
-
-## 🎓 Formación
-
-- **Ingeniero en Ciencias Informáticas** – Universidad de las Ciencias Informáticas (UCI), Cuba  
-- **Formación autodidacta en:**
-  - Arquitecturas de Microservicios  
-  - DevOps con Docker & Kubernetes  
-  - Seguridad en APIs y mejores prácticas
-
----
-
-## 📫 Contacto
-
-- 📧 **Email:** [luissantoslezcano@gmail.com](mailto:luissantoslezcano@gmail.com)  
-- 💼 **LinkedIn:** [Luis Manuel Santos Lezcano](https://www.linkedin.com/in/luis-manuel-santos-lezcano-633956108/)  
-- 🌐 **Portfolio:** [luissantos.dev]( https://luismsldev.vercel.app/es )  
-
----
-
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1A6HgzwWEP/?mibextid=wwXIfr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luism_santos2000?igsh=MTNuYnBsbHJsNDZoNg%3D%3D&utm_source=qr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-manuel-santos-lezcano-633956108/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luissantoslezcano@gmail.com) 
-
----
-
-# 💻 Tech Stack
-
-### 🧩 Lenguajes & Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-
-### 🛠 Backend, APIs & Testing
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Bases de Datos & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 📡 IoT, Tiempo Real & Desktop
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-
-### 🧳 Control de Versiones & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=RusoMDK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RusoMDK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RusoMDK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RusoMDK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RusoMDK&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=RusoMDK&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RusoMDK)
+[LinkedIn](https://www.linkedin.com/in/luissantosdev/) · [Portfolio](https://luismsldev.vercel.app) · [luissantoslezcano@gmail.com](mailto:luissantoslezcano@gmail.com)
