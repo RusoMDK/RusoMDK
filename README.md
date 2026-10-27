@@ -27,6 +27,7 @@ SaaS B2B multi-tenant (código privado) que unifica TPV, inventario, compras, ca
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [iot-testbench](https://github.com/RusoMDK/iot-testbench) | Tesis: recolección y visualización de parámetros de pruebas de dispositivos IoT | NestJS, Angular, TypeORM, PostgreSQL, MQTT |
 | [Portfolio](https://github.com/RusoMDK/luis-manuel-santos-portfolio) | Portfolio bilingüe con tests que verifican el contenido | Next.js, TypeScript, Tailwind CSS, next-intl |
 | [Tienda-Virtual](https://github.com/RusoMDK/Tienda-Virtual) | E-commerce con catálogo, carrito, checkout y panel de administración | Fastify, Prisma, PostgreSQL, React, TanStack Query, Zustand |
 | [PlataformaIoT](https://github.com/RusoMDK/PlataformaIoT) | Ingesta de lecturas por MQTT, dashboards en tiempo real, alertas y exportación | Express, MongoDB, MQTT, Socket.IO, React |
@@ -52,7 +53,7 @@ SaaS B2B multi-tenant (código privado) que unifica TPV, inventario, compras, ca
 
 ## Formación
 
-- **Ingeniería en Ciencias Informáticas**, Universidad de las Ciencias Informáticas (2019–2024).
+- **Ingeniería en Ciencias Informáticas**, Universidad de las Ciencias Informáticas (2019–2024). Tesis: [iot-testbench](https://github.com/RusoMDK/iot-testbench).
 - **Estudios de posgrado en Informática Avanzada**, misma universidad (2025–2026): Machine Learning, Big Data con Apache Spark, IoT y ciberseguridad.
 
 ## Contacto
